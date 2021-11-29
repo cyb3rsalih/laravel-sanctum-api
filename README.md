@@ -1,3 +1,1 @@
-# Laravel CRUD REST API with Auth 
-
-It Works.
+# Laravel CRUD REST API with Auth
